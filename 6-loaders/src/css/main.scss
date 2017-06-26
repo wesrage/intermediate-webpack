@@ -1,0 +1,10 @@
+$image-height: 100px;
+$black: #000;
+
+body {
+    background-color: $black;
+    .logo {
+        height: $image-height;
+        width: $image-height;
+    }
+}

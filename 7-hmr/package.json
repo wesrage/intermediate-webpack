@@ -1,0 +1,24 @@
+{
+  "name": "intermediate-webpack",
+  "version": "1.0.0",
+  "description": "Part 2 of a pro-dev series on webpack",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesrage/intermediate-webpack.git"
+  },
+  "author": "Wesley Waldner <wesley.waldner@yardi.com>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/wesrage/intermediate-webpack#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "webpack": "^3.0.0"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.11.0",
+    "webpack-hot-middleware": "^2.18.0"
+  },
+  "false": {}
+}
